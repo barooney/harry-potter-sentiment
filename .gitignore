@@ -134,3 +134,7 @@ data/*
 !data/README.md
 out/*
 !out/.gitkeep
+bin
+etc
+share
+pyvenv.cfg
