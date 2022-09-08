@@ -1,0 +1,178 @@
+Seidenschnabel (Tier)
+Krummbein (Tier)
+Fang (Hagrids Hund, Tier)
+Fluffy (dreiköpfiger Hund, Tier)
+Norbert (Norwegischer Stachelbuckel-Drachen, Tier)
+Norberta (Norwegischer Stachelbuckel, Tier)
+Hedwig (Tier)
+Mrs Norris (Tier)
+Krätze (Tier)
+Pigwidgeon (Tier)
+	Pig
+Die Fette Dame (Gryffindors Türwächterin, Hogwarts-Gemälde)
+Cadogan (Hogwarts-Gemälde)
+Violet (Hogwarts-Gemälde)
+Nicholas de Mimsy-Porpington (Geister)
+	Fast Kopfloser Nick
+Fetter Mönch (Geister)
+Helena Ravenclaw (Geister)
+Graue Dame (Geister)
+Der Blutige Baron (Geister)
+	Blutige Baron
+Maulende Myrte (Geister)
+Sirius Black (Harrys Familie)
+Dudley Dursley (Harrys Familie)
+Magdalene "Magda" Dursley (Harrys Familie)
+Petunia Dursley (Tante Petunia, Harrys Familie)
+	Mrs Dursley
+Vernon Dursley (Onkel Vernon, Harrys Familie)
+	Mr Dursley
+James Potter I (Harrys Familie)
+Lily Evans (Harrys Familie)
+	Lily Potter
+	Mrs Potter
+Bathsheda Babbling (Alte Runen, Hogwarts-Angestellte)
+Charity Burbage (Muggelkunde, Hogwarts-Angestellte)
+Cuthbert Binns (Hogwarts-Angestellte, Geschichte der Zauberei)
+	Professor Binns
+Alecto Carrow (Muggelkunde, Hogwarts-Angestellte)
+Amycus Carrow (Dunkle Künste, Hogwarts-Angestellte)
+Dobby (Hauself, Hogwarts-Angestellte)
+Albus Dumbledore (Schulleiter, Gryffindor, Hogwarts-Angestellte)
+	Dumbledore
+Argus Filch (Hausmeister, Hogwarts-Angestellte)
+	Filch
+Flitwick (Zauberkunst, Ravenclaw, Hogwarts-Angestellte)
+	Filius Flitwick
+Godric Gryffindor (Hogwarts-Mitbegründer, Hogwarts-Angestellte)
+Rubeus Hagrid (Gryffindor, Hogwarts-Angestellte)
+	Hagrid
+Rolanda Hooch (Besenflug, Hogwarts-Angestellte)
+	Madam Hooch
+Helga Hufflepuff (Hogwarts-Mitbegründerin, Hogwarts-Angestellte)
+Silvanus Kesselbrand (Pflege magischer Geschöpfe, Hogwarts-Angestellte)
+Gilderoy Lockhart (Ravenclaw, Hogwarts-Angestellte)
+Remus Lupin (Gryffindor, Hogwarts-Angestellte)
+Minerva McGonagall (Verwandlung, Gryffindor, Hogwarts-Angestellte)
+	McGonagall
+Mad-Eye Moody (Hogwarts-Angestellte)
+	Alastor Moody
+Irma Pince (Bibliothekarin, Hogwarts-Angestellte)
+	Madam Pince
+Poppy Pomfrey (Heilerin, Hogwarts-Angestellte)
+	Madam Pomfrey
+Quirinus Quirrell (Ravenclaw, Hogwarts-Angestellte)
+	Professor Quirrell
+Wilhelmina Raue-Pritsche
+	Professor Raue-Pritsche
+Rowena Ravenclaw (Hogwarts-Mitbegründerin, Hogwarts-Angestellte)
+Aurora Sinistra (Astronomie, Hogwarts-Angestellte)
+Horace Slughorn (Zaubertränke, Slytherin, Hogwarts-Angestellte)
+Severus Snape (Slytherin, Hogwarts-Angestellte)
+	Snape
+Salazar Slytherin (Hogwarts-Mitbegründer, Hogwarts-Angestellte)
+Pomona Sprout (Hufflepuff, Hogwarts-Angestellte)
+	Professor Sprout
+Sybill Trelawney (Wahrsagen, Ravenclaw, Hogwarts-Angestellte)
+Septima Vektor (Arithmantik, Hogwarts-Angestellte)
+	Professor Vektor
+Winky (Hauselfe, Hogwarts-Angestellte)
+Angelina Johnson (Gryffindor, Hogwarts-Studenten)
+Hannah Abbott (Hufflepuff, Hogwarts-Studenten)
+Euan Abercrombie (Gryffindor, Hogwarts-Studenten)
+Stewart Ackerley (Ravenclaw, Hogwarts-Studenten)
+Malcolm Baddock (Slytherin, Hogwarts-Studenten)
+Marcus Flint (Slytherin, Hogwarts-Studenten)
+Susan Bones (Hufflepuff, Hogwarts-Studenten)
+Terry Boot (Ravenclaw, Hogwarts-Studenten)
+Eleanor Branstone (Hufflepuff, Hogwarts-Studenten)
+Mandy Brocklehurst (Ravenclaw, Hogwarts-Studenten)
+Lavender Brown (Gryffindor, Hogwarts-Studenten)
+Cho Chang (Ravenclaw, Hogwarts-Studenten)
+Penelope Clearwater (Ravenclaw, Hogwarts-Studenten)
+Michael Corner (Ravenclaw, Hogwarts-Studenten)
+Vincent Crabbe (Slytherin, Hogwarts-Studenten)
+	Crabbe
+Colin Creevey (Gryffindor, Hogwarts-Studenten)
+Dennis Creevey (Gryffindor, Hogwarts-Studenten)
+Cedric Diggory (Hufflepuff, Hogwarts-Studenten)
+Marietta Edgecombe (Ravenclaw, Hogwarts-Studenten)
+Seamus Finnigan (Gryffindor, Hogwarts-Studenten)
+Anthony Goldstein (Ravenclaw, Hogwarts-Studenten)
+Gregory Goyle (Slytherin, Hogwarts-Studenten)
+	Goyle
+Hermine Granger (Gryffindor, Hogwarts-Studenten)
+	Miss Granger
+Neville Longbottom (Gryffindor, Hogwarts-Studenten)
+Luna Lovegood (Ravenclaw, Hogwarts-Studenten)
+Draco Malfoy (Slytherin, Hogwarts-Studenten)
+	Malfoy
+	Mr Malfoy
+Padma Patil (Ravenclaw, Hogwarts-Studenten)
+Parvati Patil (Gryffindor, Hogwarts-Studenten)
+Sally-Anne Perks
+Harry Potter (Gryffindor, Hogwarts-Studenten)
+Dean Thomas (Gryffindor, Hogwarts-Studenten)
+Fred Weasley (Gryffindor, Hogwarts-Studenten)
+George Weasley (Gryffindor, Hogwarts-Studenten)
+Ginny Weasley (Gryffindor, Hogwarts-Studenten)
+	Ginevra Weasley
+Ron Weasley (Gryffindor, Hogwarts-Studenten)
+	Ronald Weasley
+Lord Voldemort
+	Voldemort
+	Er, dessen Name nicht genannt werden darf
+	Du-weißt-schon-wer
+	Du-weißt-schon-wem
+	Tom Vorlost Riddle
+	Der Dunkle Lord
+Aragog (die Spinne, Magische nicht-menschliche Charaktere)
+Bane (Zentaur, Magische nicht-menschliche Charaktere)
+Firenze (der Zentaur, Magische nicht-menschliche Charaktere)
+Griphook (der Kobold von Gringotts, Magische nicht-menschliche Charaktere)
+Kreacher (Hauself der Familie Black, Magische nicht-menschliche Charaktere)
+Magorian (Zentaur, Magische nicht-menschliche Charaktere)
+Ronan (Zentaur, Magische nicht-menschliche Charaktere)
+Ludo Bagman (Zaubereiministeriumsangestellte)
+	Ludovic Bagman
+Broderick Bode (Zaubereiministeriumsangestellte)
+Amelia Bones (Zaubereiministeriumsangestellte)
+Barty Crouch sr. (Zaubereiministeriumsangestellte)
+	Bartemius Crouch sr.
+Arnold Friedlich (Zaubereiministeriumsangestellte)
+Cornelius Fudge (Zaubereiministeriumsangestellte)
+Wilbert Gimpel (Zaubereiministeriumsangestellte)
+Knutbert Mockridge (Zaubereiministeriumsangestellte)
+Rufus Scrimgeour (Zaubereiministeriumsangestellte)
+Kingsley Shacklebolt (Zaubereiministeriumsangestellte)
+Nymphadora Tonks (Zaubereiministeriumsangestellte)
+Wilkie Twycross (Zaubereiministeriumsangestellte)
+Dolores Umbridge (Zaubereiministeriumsangestellte)
+Arthur Weasley (Zaubereiministeriumsangestellte)
+Percy Weasley (Zaubereiministeriumsangestellte)
+Fleur Delacour (Schüler an anderen Schulen, Beauxbatons)
+Gabrielle Delacour (Schüler an anderen Schulen, Beauxbatons)
+Viktor Krum (Schüler an anderen Schulen, Durmstrang)
+Poliakoff (Schüler an anderen Schulen, Durmstrang)
+Olympe Maxime (Lehrer an anderen Schulen, Beauxbatons)
+Igor Karkaroff (Lehrer an anderen Schulen, Durmstrang)
+Archie Aymslowe (Andere Charaktere)
+Avery (Riddle-Ära, Andere Charaktere)
+Otto Bagman (Andere Charaktere)
+Bertie Bott (Andere Charaktere)
+Amos Diggory (Andere Charaktere)
+Rita Kimmkorn (Andere Charaktere)
+Bellatrix Lestrange (Andere Charaktere)
+Lucius Malfoy (Andere Charaktere)
+Narzissa Malfoy (Andere Charaktere)
+Mr. Ollivander (Andere Charaktere)
+Peeves (Andere Charaktere)
+Peter Pettigrew (Andere Charaktere)
+R.A.B. (Andere Charaktere)
+	Regulus Arcturus Black
+Emmeline Vance (Andere Charaktere)
+Bill Weasley (Andere Charaktere)
+	William Weasley
+Charlie Weasley (Andere Charaktere)
+	Charles Weasley
+Molly Weasley (Andere Charaktere)

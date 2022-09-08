@@ -132,6 +132,7 @@ dmypy.json
 data/*
 !out/.gitkeep
 !data/README.md
+!data/character-mapping.txt
 out/*
 !out/.gitkeep
 bin
