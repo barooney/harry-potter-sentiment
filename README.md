@@ -29,3 +29,21 @@ eher grün (positiv) oder rot (negativ) dargestellt.
 Die Kanten werden dicker, je mehr Interaktionen es zwischen den Figuren gibt.
 Auch diese werden je nachdem, ob es sich um positive oder negative Interaktionen
 handelt, eher grün (positiv) oder eher rot (negativ) eingefärbt.
+
+## Installation
+
+Mittels
+
+```
+$ pip3 install -r requirements.txt
+```
+
+können die notwendigen Abhängigkeiten installiert werden.
+
+Anschließend kann das Jupyter Notebook mittels
+
+```
+$ jupyter notebook
+```
+
+gestartet und geöffnet werden.
